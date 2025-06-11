@@ -96,7 +96,7 @@
 * (+) Ausführung Ende Heizsaison
 * (+) Warmwasser zuerst
 
-# Häufige fragen
+# Häufige Fragen
 * Ist ein Hybridsystem sinnvoll?
 * Wie funktioniert der Rückbau der Gasheizung?
 * Was passiert beim Abtauen?
