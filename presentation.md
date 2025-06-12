@@ -168,6 +168,7 @@
 * Wie schlimm ist Takten?
 * Ist eine Kombi aus Trinkwasser und Heizung mit einer Wärmepumpe sinnvoll?
 * BAFA-Förderung nur mit Fachunternehmererklärung
+* **KISS**
 
 # Informationsquellen
 
