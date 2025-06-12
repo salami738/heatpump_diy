@@ -39,19 +39,21 @@
 
 ### Laut Datenblatt
 
-| Modell              | A -7°C, W35°C | A -7°C, W 55°C | A +7°C, W 35°C | A +7°C, W 55°C |
-|---------------------|---------------|----------------|----------------|----------------|
-| WH-MDC05J3E5 (5 kW) | 5,00          | 	5,00          | 	5,00          | 	5,00          |
-| WH-MDC07J3E5 (7 kW) | 6,80          | 	6,30          | 	7,00          | 	7,00          |
-| WH-MDC09J3E5 (9 kW) | 7,50          | 	7,00          | 	9,00          | 	8,95          |
+| Modell              | A -7°C, W35°C (kW) | A -7°C, W 55°C (kW) | A +7°C, W 35°C (kW) | A +7°C, W 55°C (kW) |
+|---------------------|--------------------|---------------------|---------------------|---------------------|
+| WH-MDC05J3E5 (5 kW) | 5,00               | 	5,00               | 	5,00               | 	5,00               |
+| WH-MDC07J3E5 (7 kW) | 6,80               | 	6,30               | 	7,00               | 	7,00               |
+| WH-MDC09J3E5 (9 kW) | 7,50               | 	7,00               | 	9,00               | 	8,95               |
 
 ### Errechnete Leistung im Winter
 
-| Modell              | W 45°C (kW) | WP 100% (24h, kWh) | WP 75% (24h, kWh) | Heizstab 50% (kWh) |
-|---------------------|-------------|--------------------|-------------------|--------------------|
-| WH-MDC05J3E5 (5 kW) | 5,00	       | 100,00	            | 75,00             | 36,00              |
-| WH-MDC07J3E5 (7 kW) | 6,55	       | 131,00	            | 98,25             | 36,00              |
-| WH-MDC09J3E5 (9 kW) | 7,25        | 	145,00            | 	108,75           | 36,00              |
+| Modell              | A -7°C, W45°C (kW) | WP 100% (24h, kWh) | WP 75% (24h, kWh) | Heizstab 50% (kWh) |
+|---------------------|--------------------|--------------------|-------------------|--------------------|
+| WH-MDC05J3E5 (5 kW) | 5,00	              | 100,00	            | 75,00             | 36,00              |
+| WH-MDC07J3E5 (7 kW) | 6,55	              | 131,00	            | 98,25             | 36,00              |
+| WH-MDC09J3E5 (9 kW) | 7,25               | 	145,00            | 	108,75           | 36,00              |
+
+10% der Zeit geht im Worstcase für Abtauen drauf.
 
 ## Ergebnis
 
@@ -68,14 +70,15 @@
 
 # Material und Werkzeug Fundament
 
-* Treppensteine
+* Blockstufen
 * Mörtel
 * Bohrkrone für Wanddurchbruch
-* Sickergrube herstellen
+* Kies für Sickergrube
 
 # Material und Werkzeug Sanitärinstallation
 
 * Presszange
+* Sanitärzangen
 * Rohr
 * Fittinge
 * Verschraubungen
@@ -117,6 +120,8 @@
 # Ergebnisse
 
 * Daten aus Grafana
+* ![Grafana-2](img/grafana2.png)
+* ![Grafana-1](img/grafana1.png)
 * Raumtemperatur: 21-22°C
 * ![Außengerät-1](img/Fotos_Aufbau/IMG_2564.JPG)
 * ![Außengerät-2](img/Fotos_Aufbau/IMG_2565.JPG)
