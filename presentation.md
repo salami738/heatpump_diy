@@ -92,7 +92,8 @@
 
 # Hausautomatisierung & Monitoring
 
-* Heishamon Platine
+* [Heishamon Platine](https://www.tindie.com/products/thehognl/heishamon-communication-pcb/)
+* ![Heishamon Platine](img/heishamon.jpg)
 * MQTT Server
 * Grafana
 * ESPhome
